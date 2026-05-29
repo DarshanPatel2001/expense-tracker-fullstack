@@ -1,4 +1,19 @@
-backend/venv/
-frontend/node_modules/
-.env
+# Python
+venv/
 __pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Vite
+dist/
+
+# OS
+.DS_Store
